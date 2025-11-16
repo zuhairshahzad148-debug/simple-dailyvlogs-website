@@ -70,3 +70,7 @@ Screenshots can be added to show the website’s pages.
 The GitHub link may be shared with teachers or peers for access.
 
 All required website files must be included in the repository.
+
+Author : Muhammad Zohair
+
+Student ID: 35950872
